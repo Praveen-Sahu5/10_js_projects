@@ -1,6 +1,7 @@
 "# 10_js_projects" 
 
 
-git add .
-git commit -m "Updated code"
-git push
+A collection of 10 basic JavaScript projects demonstrating core concepts like DOM manipulation, events, loops, functions, and beginner-friendly logic building.
+
+1) Random Qutoe Generator (https://fastidious-chebakia-e17636.netlify.app/)
+2) Backgeround Color Changer (https://clinquant-halva-8b4316.netlify.app/)
