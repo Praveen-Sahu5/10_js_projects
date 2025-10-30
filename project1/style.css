@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first{
+    width:500px;
+    height: 550px;
+    background-color: antiquewhite;
+    margin-top:50px;
+    border:2px solid grey;
+    border-radius: 20px;
+}
+
+h1{
+    font-size:50px;
+    margin-left:20px;
+}
+
+.btn{
+    width:300px;
+    height:50px;
+    background-color: orange;
+    border:none;
+    border-radius: 20px;
+    color:black;
+    font-size:20px;
+    margin-left:20px;
+}
