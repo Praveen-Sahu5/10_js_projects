@@ -8,3 +8,4 @@ A collection of 10 basic JavaScript projects demonstrating core concepts like DO
 3) Love Calculator (https://taupe-beijinho-5d08cb.netlify.app/)
 4) Income Tax Calculator (https://heartfelt-torrone-7fdc06.netlify.app/)
 5) Digital Clock (https://relaxed-begonia-3734b6.netlify.app/)
+6) Olympic Countdown Timer (https://clever-platypus-b442c8.netlify.app/)
